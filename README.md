@@ -1,0 +1,2 @@
+# TomRecordScreenManager
+基于ReplayKit录制屏幕实现暂停继续录制功能
